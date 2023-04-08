@@ -1,0 +1,26 @@
+.heading 
+{font-size: 25px;
+font-family:'Courier New', Courier, monospace;
+width: 100%;
+margin: 0px;
+box-shadow: 5px 5px 5px rgb(48, 127, 54);
+}
+
+.note
+{font-size: 15px;
+color: rgb(6, 56, 20);
+}
+.copy_right_footer{position: fixed;
+font-family: 'Courier New', Courier, monospace;
+color: rgb(179, 214, 161);
+bottom: 0;
+width: 100%;
+background-color: rgb(12, 100, 24);
+line-height: 3;
+text-align: center;
+}
+canvas
+{border: 5px solid white;
+border-radius: 20px;
+box-shadow: 5px 5px 5px grey;
+}
